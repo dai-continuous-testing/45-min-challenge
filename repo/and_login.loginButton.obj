@@ -1,0 +1,5 @@
+#Tue Apr 25 13:33:19 IDT 2017
+json={"nodeName"\:"android.widget.Button","hidden"\:"false","clickable"\:"true","enabled"\:"true","password"\:"false","top"\:"true","long-clickable"\:"false","id"\:"loginButton","text"\:"Login","class"\:"android.widget.Button","scrollable"\:"false","selected"\:"false","height"\:"192","package"\:"com.experitest.ExperiBank","textContext"\:"Login","checkable"\:"false","knownSuperClass"\:"android.widget.Button","uniqueKeys"\:"nodeName,id,text,class,textContext,knownSuperClass,index,resource-id","index"\:"3","focusable"\:"true","dumpElementType"\:"NONINSTRUMENTED","resource-id"\:"com.experitest.ExperiBank\:id/loginButton","longClickable"\:"false","onScreen"\:"true","x"\:"400","width"\:"640","focused"\:"false","bounds"\:"[400,1081][1040,1273]","y"\:"1081"}
+page=and_login
+by=id
+expression=loginButton

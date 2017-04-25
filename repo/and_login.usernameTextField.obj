@@ -1,0 +1,5 @@
+#Tue Apr 25 13:33:04 IDT 2017
+json={"nodeName"\:"android.widget.EditText","hidden"\:"false","clickable"\:"true","enabled"\:"true","password"\:"false","top"\:"true","long-clickable"\:"true","id"\:"usernameTextField","text"\:"Username","class"\:"android.widget.EditText","scrollable"\:"false","selected"\:"false","height"\:"192","package"\:"com.experitest.ExperiBank","textContext"\:"Username","checkable"\:"false","knownSuperClass"\:"android.widget.EditText","uniqueKeys"\:"id,text,textContext,resource-id,focused","index"\:"0","focusable"\:"true","dumpElementType"\:"NONINSTRUMENTED","resource-id"\:"com.experitest.ExperiBank\:id/usernameTextField","longClickable"\:"true","onScreen"\:"true","x"\:"40","width"\:"1360","focused"\:"true","bounds"\:"[40,617][1400,809]","y"\:"617"}
+page=and_login
+by=id
+expression=usernameTextField

@@ -1,0 +1,5 @@
+#Tue Apr 25 13:36:22 IDT 2017
+json={"nodeName"\:"android.widget.Button","hidden"\:"false","clickable"\:"true","enabled"\:"true","password"\:"false","top"\:"true","long-clickable"\:"false","id"\:"makePaymentButton","text"\:"Make Payment","class"\:"android.widget.Button","scrollable"\:"false","selected"\:"false","height"\:"192","package"\:"com.experitest.ExperiBank","textContext"\:"Make Payment","checkable"\:"false","knownSuperClass"\:"android.widget.Button","uniqueKeys"\:"id,text,textContext,index,resource-id","index"\:"2","focusable"\:"true","dumpElementType"\:"NONINSTRUMENTED","resource-id"\:"com.experitest.ExperiBank\:id/makePaymentButton","longClickable"\:"false","onScreen"\:"true","x"\:"320","width"\:"800","focused"\:"false","bounds"\:"[320,1057][1120,1249]","y"\:"1057"}
+page=and_main
+by=id
+expression=makePaymentButton

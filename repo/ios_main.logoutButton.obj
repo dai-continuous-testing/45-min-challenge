@@ -1,0 +1,5 @@
+#Tue Apr 25 15:01:55 IDT 2017
+json={"nodeName"\:"XCUIElementTypeButton","visible"\:"true","hidden"\:"false","textContext"\:"logoutButton","knownSuperClass"\:"UIRoundedRectButton","uniqueKeys"\:"textContext,label,name,text","label"\:"logoutButton","dumpElementType"\:"NONINSTRUMENTED","enabled"\:"true","onScreen"\:"true","top"\:"true","XCElementType"\:"XCUIElementTypeButton","x"\:"120","width"\:"510","name"\:"logoutButton","y"\:"842","text"\:"logoutButton","class"\:"UIAButton","height"\:"88"}
+page=ios_main
+by=xpath
+expression=//*[@label\='logoutButton']

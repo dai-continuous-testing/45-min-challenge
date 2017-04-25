@@ -1,0 +1,5 @@
+#Tue Apr 25 15:04:42 IDT 2017
+json={"nodeName"\:"android.widget.Button","hidden"\:"false","clickable"\:"true","enabled"\:"true","password"\:"false","top"\:"true","long-clickable"\:"false","id"\:"button3","text"\:"Close","class"\:"android.widget.Button","scrollable"\:"false","selected"\:"false","height"\:"192","package"\:"com.experitest.ExperiBank","textContext"\:"Close","checkable"\:"false","knownSuperClass"\:"android.widget.Button","uniqueKeys"\:"nodeName,clickable,id,text,class,textContext,knownSuperClass,focusable,resource-id,focused","index"\:"2","focusable"\:"true","dumpElementType"\:"NONINSTRUMENTED","resource-id"\:"android\:id/button3","longClickable"\:"false","onScreen"\:"true","x"\:"408","width"\:"632","focused"\:"false","bounds"\:"[408,1435][1040,1627]","y"\:"1435"}
+page=and_login_error
+by=xpath
+expression=//*[@text\='Close']

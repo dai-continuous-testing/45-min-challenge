@@ -1,0 +1,5 @@
+#Tue Apr 25 13:36:28 IDT 2017
+json={"nodeName"\:"android.widget.Button","hidden"\:"false","clickable"\:"true","enabled"\:"true","password"\:"false","top"\:"true","long-clickable"\:"false","id"\:"logoutButton","text"\:"Logout","class"\:"android.widget.Button","scrollable"\:"false","selected"\:"false","height"\:"192","package"\:"com.experitest.ExperiBank","textContext"\:"Logout","checkable"\:"false","knownSuperClass"\:"android.widget.Button","uniqueKeys"\:"id,text,textContext,index,resource-id","index"\:"5","focusable"\:"true","dumpElementType"\:"NONINSTRUMENTED","resource-id"\:"com.experitest.ExperiBank\:id/logoutButton","longClickable"\:"false","onScreen"\:"true","x"\:"320","width"\:"800","focused"\:"false","bounds"\:"[320,1753][1120,1945]","y"\:"1753"}
+page=and_main
+by=id
+expression=logoutButton
